@@ -1,6 +1,7 @@
 # Analiza-5-letnich-spóek-giełdowych-2018-2023
 Projekt ten stanowi kompleksową analizę 5-letniego zbioru danych giełdowych (2018-2023) dla 491 spółek, pobranego z platformy Kaggle. Analiza skupia się na identyfikacji trendów, ocenie ryzyka i zwrotu oraz zrozumieniu dynamiki rynkowej.
 
+Źródło: https://www.kaggle.com/datasets/iveeaten3223times/massive-yahoo-finance-dataset
 # 1. Cel Projektu
 
 Głównym celem projektu było przeprowadzenie wielowymiarowej analizy historycznych danych giełdowych w celu:
